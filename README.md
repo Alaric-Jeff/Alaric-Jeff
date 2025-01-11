@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alaric-Jeff
 - 👀 I’m interested in lot of stuffs that are related in programming such as web developmemnt, game development, and solving coding puzzles.
-- 🌱 I’m currently learning Java, C++, C#, Python, Javascript, Unity(Game development), node.js, mainly express.js, react.
+- 🌱 I’m currently learning Java, C++, C#, Python, Javascript, node.js, mainly express.js, react, Arduino.
 - 💞️ I’m looking to collaborate on game development and web development
 - 📫 You can email me on: jefaspiras2022@gmail.com
 - 😄 Pronouns: He/Him
