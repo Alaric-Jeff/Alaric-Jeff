@@ -37,12 +37,6 @@ Hello, I'm an aspiring **full-stack developer** (backend-focused) specializing i
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alaric-Jeff&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🧩 Fun & Facts
 
 - 🧠 I love solving logic puzzles, fixing bugs, and optimizing code
