@@ -9,8 +9,6 @@
 
 Hello, I'm an aspiring **full-stack developer** (backend-focused) specializing in **Node.js + Express**, using **JavaScript/TypeScript**. I love writing **clean**, **modular**, and **efficient** code that adheres to best practices. I'm always learning and building cool things — from microcontrollers to scalable APIs.
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
 ---
 
 ## 🛠️ Tech Stack
