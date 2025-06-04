@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alaric-Jeff&style=flat-square&color=brightgreen" alt="visitor badge"/>
 </p>
-<h3 align="center">🚀 Passionate about learning, building, and solving problems through code.</h3>
+<h3 align="center">🧠 A passionate learner. </h3>
 
 ---
 
