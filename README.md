@@ -43,7 +43,8 @@ I'm always learning and building cool things — from microcontrollers to scalab
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alaric-Jeff&theme=radical)  
-![Alaric-Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical)  
+[![Alaric-Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical)  ](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical&cache_seconds=1800
+)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric-Jeff&layout=compact&theme=radical)  
 
 ---
