@@ -39,7 +39,6 @@ Hello, I'm an aspiring **full-stack developer** (backend-focused) specializing i
 <!-- 🔢 Approximate total file count (based on public repos) -->
 ![Repo File Count](https://img.shields.io/badge/Files-Tracking%20via%20commits%20%26%20repos-blueviolet?style=flat-square)
 
-> *GitHub doesn't expose file counts directly — you can calculate approx file stats by using GitHub APIs or action-based scripts.*
 
 ---
 
