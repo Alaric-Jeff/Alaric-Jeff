@@ -1,5 +1,8 @@
-# 👋 Hey there, I'm Alaric Jeff!
-![Visitor Badge](https://komarev.com/ghpvc/?username=Alaric-Jeff&style=flat-square&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alaric-Jeff&style=flat-square&color=brightgreen" alt="visitor badge"/>
+</p>
+
+<h1 align="center">👋 Hey there, I'm Alaric Jeff!</h1>
 
 <h3 align="center">🚀 Passionate about learning, building, and solving problems through code.</h3>
 
@@ -33,22 +36,26 @@ Hello, I'm an aspiring **full-stack developer** (backend-focused) specializing i
 ![Alaric-Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric-Jeff&layout=compact&theme=radical)
 
+<!-- 🔢 Approximate total file count (based on public repos) -->
+![Repo File Count](https://img.shields.io/badge/Files-Tracking%20via%20commits%20%26%20repos-blueviolet?style=flat-square)
+
+> *GitHub doesn't expose file counts directly — you can calculate approx file stats by using GitHub APIs or action-based scripts.*
+
 ---
 
-## 🧩 Fun & Facts
+## 🧩 Fun Facts
 
-- 🧠 I love solving logic puzzles, fixing bugs, and optimizing code
-- 📦 I write modular services and clean controller logic
-- 🧰 I enjoy tweaking with microcontrollers like Arduino
-- 🎯 Always up for a hackathon or a weekend project
-- 🔋 Recharging with coffee, tech articles, and a bit of gaming
+- 🧠 I love solving logic puzzles, fixing bugs, and optimizing code  
+- 📦 I write modular services and clean controller logic  
+- 🧰 I enjoy tweaking with microcontrollers like Arduino  
+- 🔋 Recharging with coffee, tech articles, and a bit of gaming  
 
 ---
 
 <details>
   <summary>📫 <strong>Contact Me</strong></summary>
 
-  - Email: **jefsohandsome1@gmail.com**
+  - Email: **jefsohandsome1@gmail.com**  
   - GitHub: [@Alaric-Jeff](https://github.com/Alaric-Jeff)
 
 </details>
