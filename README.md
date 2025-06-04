@@ -34,13 +34,6 @@ I'm always learning and building cool things — from microcontrollers to scalab
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alaric-Jeff&theme=radical)  
 ![Alaric-Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric-Jeff&layout=compact&theme=radical)  
-![Code Stats](https://img.shields.io/badge/Code--Files-auto--files--auto--lines-blueviolet?style=flat-square)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alaric-Jeff&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
