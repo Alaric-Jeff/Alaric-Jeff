@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Alaric Jeff!</h1>
+<h1 align="center">👋 Hey there, I'm Jeffrey!</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alaric-Jeff&style=flat-square&color=brightgreen" alt="visitor badge"/>
 </p>
