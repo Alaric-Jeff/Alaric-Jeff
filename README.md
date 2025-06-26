@@ -65,7 +65,7 @@ I'm always learning and building cool things — from microcontrollers to scalab
   <summary>📫 <strong>Contact Me</strong></summary>
 
 - Email: **jefsohandsome1@gmail.com**  
-- GitHub: [@Alaric-Jeff](https://github.com/Alaric-Jeff)
-- Facebook: [@JeffreyM.Aspiras](https://www.facebook.com/jeffrey.m.aspiras/)
+- Facebook: [Jeffrey M. Aspiras](https://www.facebook.com/jeffrey.m.aspiras/)
+- Threads: [Jeffrey Mercado Aspiras](https://www.threads.com/@alaricaspiras?hl=en)
 
 </details>
