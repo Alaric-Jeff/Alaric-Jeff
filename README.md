@@ -1,17 +1,3 @@
-<h1 align="center">👋 Hey there, I'm Jeffrey!</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alaric-Jeff&style=flat-square&color=brightgreen" alt="visitor badge"/>
-</p>
-<h3 align="center">🧠 A passionate learner.</h3>
-
----
-
-## 🧠 About Me
-
-Hello, I'm an aspiring **full-stack developer** (backend-focused) specializing in **Node.js + Express**, using **JavaScript/TypeScript**.  
-I love writing **clean**, **modular**, and **efficient** code that adheres to best practices.  
-I'm always learning and building cool things — from microcontrollers to scalable APIs.
-
 ---
 ## 🛠️ Tech Stack
 
