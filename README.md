@@ -42,6 +42,19 @@
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-0B3D91?style=flat-square&logo=gmail&logoColor=white)
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=flat-square&logo=websocket&logoColor=white)
+
+### 🧪 Testing Tools
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
+
+### 🧪 API Clients
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-1D9BF0?style=flat-square&logo=thunder-client&logoColor=white)
+
 
 ---
 
