@@ -49,24 +49,4 @@ I'm always learning and building cool things — from microcontrollers to scalab
 [![Alaric-Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical)  ](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical&cache_seconds=1800
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric-Jeff&layout=compact&theme=radical)  
-![Alaric-Jeff's GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Alaric-Jeff&limit=5&order_by=contributions&combine_all_yearly_contributions=true&hide=Alaric-Jeff&theme=radical)
 
----
-
-## 🧩 Fun Facts
-
-- 🧠 I love solving logic puzzles, fixing bugs, and optimizing code  
-- 📦 I write modular services and clean controller logic  
-- 🧰 I enjoy tweaking with microcontrollers like Arduino  
-- 🔋 Recharging with coffee, tech articles, and a bit of gaming  
-
----
-
-<details>
-  <summary>📫 <strong>Contact Me</strong></summary>
-
-- Email: **jefsohandsome1@gmail.com**  
-- Facebook: [Jeffrey M. Aspiras](https://www.facebook.com/jeffrey.m.aspiras/)
-- Threads: [Jeffrey Mercado Aspiras](https://www.threads.com/@alaricaspiras?hl=en)
-
-</details>
