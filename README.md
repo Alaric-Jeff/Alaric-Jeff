@@ -13,7 +13,6 @@ I love writing **clean**, **modular**, and **efficient** code that adheres to be
 I'm always learning and building cool things — from microcontrollers to scalable APIs.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
@@ -24,11 +23,18 @@ I'm always learning and building cool things — from microcontrollers to scalab
 ![Fastify](https://img.shields.io/badge/Fastify-20232A?style=flat-square&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FB9C33?style=flat-square&logo=tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### 🎨 UI Libraries
+
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases & ORMs/ODMs
 
@@ -40,6 +46,16 @@ I'm always learning and building cool things — from microcontrollers to scalab
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)
+
+### 🔌 Backend Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3C2EF2?style=flat-square&logo=clerk&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=oauth&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0B3D91?style=flat-square&logo=gmail&logoColor=white)
+![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ---
 
