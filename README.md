@@ -32,6 +32,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0A0A0A?style=flat-square&logo=drizzle&logoColor=white)
 
 ### 🔌 Backend Integrations
 
