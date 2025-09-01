@@ -49,11 +49,3 @@ Above all, I’m passionate about creating **clean, maintainable, and scalable s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alaric-Jeff&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaric-Jeff&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric-Jeff&layout=compact&theme=radical)  
-
----
-
-## 📬 Contact Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alaricaspiras)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefsohansome1@gmail.com)  
-[![SMS](https://img.shields.io/badge/SMS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](sms:09152972758)  
