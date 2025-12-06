@@ -1,15 +1,3 @@
-# 👋 Hi, I'm Jeffrey M. Aspiras
-
-I'm an aspiring software developer with a strong foundation across **high-level frameworks** and **low-level programming concepts**.  
-I take a **pragmatic approach** to engineering—carefully weighing trade-offs between **hyper-performance, maintainability, developer experience, and speed of delivery**.  
-
-My interests go beyond coding: I’m deeply engaged in **system architecture design**, from **load balancing with reverse proxies like Nginx** to implementing **efficient caching strategies with Redis**, and optimizing database queries and algorithms for micro-performance gains.  
-
-With a solid understanding of the **network layer**, I build systems with a holistic perspective—balancing **memory usage**, **concurrency models**, and **resource allocation** for scalability and resilience.  
-I also have a **security-first mindset**, with experience mitigating threats such as **DDoS attacks, XSS, SQL injection, and other vulnerabilities**, ensuring robust defense at every layer of the stack.  
-
-Above all, I’m passionate about creating **clean, maintainable, and scalable systems** across **desktop, mobile, and web platforms**, while pushing for performance and reliability at every level.
-
 ---
 
 ## 🛠️ Tech Stack
